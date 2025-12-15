@@ -1,5 +1,11 @@
 # Scrapy Metrics Exporter
 
+[![PyPI version](https://img.shields.io/pypi/v/scrapy-metrics-exporter.svg)](https://pypi.org/project/scrapy-metrics-exporter/)
+[![Python Versions](https://img.shields.io/pypi/pyversions/scrapy-metrics-exporter.svg)](https://pypi.org/project/scrapy-metrics-exporter/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Downloads](https://static.pepy.tech/badge/scrapy-metrics-exporter)](https://pepy.tech/project/scrapy-metrics-exporter)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+
 Export Scrapy metrics in real-time with automatic collection of all Scrapy stats and custom metrics.
 
 **Current backend:** Prometheus (OpenMetrics format)
